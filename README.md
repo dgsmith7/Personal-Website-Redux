@@ -1,2 +1,2 @@
 # Personal-Website-Redux
-Say goodbye to the clunky Wordpress theme that I have been using for my personal website.  Here I will be writing my own website that will blow that one out of the water.
+Say goodbye to the Wordpress theme that I have been using for my personal website: https://www.davidgailsmith.com.  Here I will be writing my own website that will blow that one out of the water.  And when it is done, I will upload it to my host so it can be reached at that URL.  Until that day, you can check out the Github Pages deployment on the right to see how its going.
