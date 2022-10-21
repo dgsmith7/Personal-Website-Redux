@@ -6,10 +6,11 @@ host so it can be reached at that URL. Until that day, you can check out the Git
 how its going. As of 10/21/23 I plan on using HTML5/CSS/Bootstrap/ThreeJs/jQuery/D3 and possibly some other tools.
 
 The main concept is to have a ThreeJS sketch running that looks like a product showcase website. The "product" in this
-case will be a machine that is comprised of procedurally-generated geometry". As the user pointd and scrolls, it will
+case will be a machine that is comprised of procedurally-generated geometry built with my code.  Perhaps I will throw a 
+3-d model or two in their too just to show that I can do that. As the user points and scrolls, the machine will
 rotate and move, with each components of the machine representing a different aspect of my creative skill set:  webDev,
 CryptoNFT projects, painting, 3d fab, illustration, photography, generative art, and finally, credentials. When a
-particular componenet is clocked, the cam will ease to a different 3d location, with floating cards that show case
+particular component is clocked, the cam will ease to a different 3d location, with floating cards that show case
 projects in that category. The credentials page will be a d3 timeline with my employment history, and a layout of icons
 with my skills, and a button to open or print a proper professional CV.
 
